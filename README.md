@@ -1,144 +1,102 @@
-# \# 📊 Clasificación de Modelos y Métricas
-
-# 
+# 📊 Clasificación de Modelos y Métricas
 
 # Este repositorio contiene las prácticas y ejercicios realizados durante la cursada del curso \*\*"Clasificación: Validación de Modelos y Métricas de Evaluación"\*\* de Alura LATAM.
 
-# 
+---
 
-# ---
+## 📝 Descripción
 
-# 
+El objetivo de este proyecto es explorar técnicas fundamentales de clasificación, balanceo de datos y evaluación de modelos en machine learning, aplicando las siguientes habilidades:
 
-# \## 📝 Descripción
+- Aplicar oversampling y undersampling en datos desbalanceados.
 
-# 
+- Utilizar diferentes técnicas de balanceo de datos y analizar sus ventajas y desventajas.
 
-# El objetivo de este proyecto es explorar técnicas fundamentales de clasificación, balanceo de datos y evaluación de modelos en machine learning, aplicando las siguientes habilidades:
+- Implementar pipelines junto con validación cruzada.
 
-# 
+- Probar y comparar distintos modelos de clasificación.
 
-# \- Aplicar oversampling y undersampling en datos desbalanceados.
+- Evaluar el desempeño de modelos utilizando métricas como accuracy, precision, recall y F1-score.
 
-# \- Utilizar diferentes técnicas de balanceo de datos y analizar sus ventajas y desventajas.
+---
 
-# \- Implementar pipelines junto con validación cruzada.
+## 📚 Contenidos
 
-# \- Probar y comparar distintos modelos de clasificación.
+- **Balanceo de Datos**
 
-# \- Evaluar el desempeño de modelos utilizando métricas como accuracy, precision, recall y F1-score.
+&nbsp; - Oversampling (SMOTE, Random OverSampler)
 
-# 
+&nbsp; - Undersampling
 
-# ---
+- **Modelos de Clasificación**
 
-# 
+&nbsp; - Regresión logística
 
-# \## 📚 Contenidos
+&nbsp; - Árboles de decisión
 
-# 
+&nbsp; - Random Forest
 
-# \- \*\*Balanceo de Datos\*\*
+- **Pipelines y Validación**
 
-# &nbsp; - Oversampling (SMOTE, Random OverSampler)
+&nbsp; - Implementación de pipelines
 
-# &nbsp; - Undersampling
+&nbsp; - Validación cruzada (cross-validation)
 
-# \- \*\*Modelos de Clasificación\*\*
+- **Métricas de Evaluación**
 
-# &nbsp; - Regresión logística
+&nbsp; - Matriz de confusión
 
-# &nbsp; - Árboles de decisión
+&nbsp; - Accuracy, Precision, Recall, F1-score
 
-# &nbsp; - Random Forest
+---
 
-# \- \*\*Pipelines y Validación\*\*
+## 🚀 Requisitos
 
-# &nbsp; - Implementación de pipelines
+- Python 3.7+
 
-# &nbsp; - Validación cruzada (cross-validation)
+- Jupyter Notebook
 
-# \- \*\*Métricas de Evaluación\*\*
+- scikit-learn
 
-# &nbsp; - Matriz de confusión
+- pandas
 
-# &nbsp; - Accuracy, Precision, Recall, F1-score
+- numpy
 
-# 
+- matplotlib / seaborn
 
-# ---
+Instala las dependencias con:
 
-# 
+```bash
 
-# \## 🚀 Requisitos
+pip install -r requirements.txt
 
-# 
+```
 
-# \- Python 3.7+
+---
 
-# \- Jupyter Notebook
+## 📂 Estructura del repositorio
 
-# \- scikit-learn
+```
 
-# \- pandas
+├── notebooks/                # Notebooks con ejercicios y ejemplos
 
-# \- numpy
+├── data/                     # (Opcional) Conjuntos de datos usados
 
-# \- matplotlib / seaborn
+├── README.md
 
-# 
+└── requirements.txt
 
-# Instala las dependencias con:
+```
 
-# 
+---
 
-# ```bash
+## ✨ Créditos
 
-# pip install -r requirements.txt
+- Curso: \[Clasificación de modelos y métricas de evaluación - Alura LATAM](https://app.aluracursos.com/)
 
-# ```
+---
 
-# 
+¡Gracias por visitar este repositorio!  
 
-# ---
-
-# 
-
-# \## 📂 Estructura del repositorio
-
-# 
-
-# ```
-
-# ├── notebooks/                # Notebooks con ejercicios y ejemplos
-
-# ├── data/                     # (Opcional) Conjuntos de datos usados
-
-# ├── README.md
-
-# └── requirements.txt
-
-# ```
-
-# 
-
-# ---
-
-# 
-
-# \## ✨ Créditos
-
-# 
-
-# \- Curso: \[Clasificación de modelos y métricas de evaluación - Alura LATAM](https://app.aluracursos.com/)
-
-# 
-
-# ---
-
-# 
-
-# ¡Gracias por visitar este repositorio!  
-
-# Si tienes sugerencias o quieres colaborar, no dudes en hacer un pull request o abrir un issue.
+Si tienes sugerencias o quieres colaborar, no dudes en hacer un pull request o abrir un issue.
 
