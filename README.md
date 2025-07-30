@@ -1,6 +1,6 @@
 # 📊 Clasificación de Modelos y Métricas
 
-# Este repositorio contiene las prácticas y ejercicios realizados durante la cursada del curso \*\*"Clasificación: Validación de Modelos y Métricas de Evaluación"\*\* de Alura LATAM.
+Este repositorio contiene las prácticas y ejercicios realizados durante la cursada del curso **"Clasificación: Validación de Modelos y Métricas de Evaluación"** de Alura LATAM.
 
 ---
 
